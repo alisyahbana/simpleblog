@@ -9,7 +9,7 @@ what is application?
 - users can comment on blogs
 
 # Installation
-download source code and add .env file to blog directory. Config .env file to your database
+ download source code and add .env file to simpleblog directory and then Config .env file to your database
 
 # Database tables
 
